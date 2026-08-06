@@ -34,7 +34,7 @@ I'm a Backend Software Engineer passionate about building scalable APIs, backend
 * Middleware
 * API Documentation (Swagger/OpenAPI)
 
-### Databases
+### Databases.
 
 * MongoDB
 * Mongoose

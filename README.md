@@ -7,7 +7,7 @@ I'm a Backend Software Engineer passionate about building scalable APIs, backend
 
 🎓 **Final-year Crop Protection student** at the Federal University of Agriculture, Abeokuta (FUNAAB), with a strong interest in software engineering and backend development.
 
----
+--
 
 ## 🚀 About Me
 

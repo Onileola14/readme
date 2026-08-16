@@ -19,7 +19,7 @@ I'm a Backend Software Engineer passionate about building scalable APIs, backend
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### Languages
 

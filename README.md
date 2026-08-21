@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Salami Tunde Onileola
 
-## Backend Software Engineer | Node.js Developer | API Builder
+# Backend Software Engineer | Node.js Developer | API Builder
 
 I'm a Backend Software Engineer passionate about building scalable APIs, backend systems, and AI-powered applications. I enjoy solving real-world problems with clean, maintainable code and continuously learning new technologies.
 
